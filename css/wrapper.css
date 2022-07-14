@@ -1,0 +1,27 @@
+.wrapper{
+    width: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.code{
+    width: 90px;
+    border: 0;
+    background: none;
+    color: #000;
+    font-weight: 700;
+}
+
+.myIcon{
+    margin-top: -4px;
+    color: white;
+}
+
+.codeBody{
+    display: flex;
+    justify-content: center;
+}
+
+.divSearchbar{
+    display: flex;
+}

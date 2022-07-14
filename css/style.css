@@ -1,0 +1,10 @@
+.myButton{
+    width: 200px;
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+

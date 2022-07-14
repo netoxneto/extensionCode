@@ -1,0 +1,13 @@
+{
+    "name":"CodelistIn",
+    "version":"1.0",
+    "icons": {
+        "128": "logo.png"
+    },
+    "description":"Lista de Codigos INEP Camacan-BA",
+    "action":{
+        "default_popup":"index.html"
+    },
+
+    "manifest_version":3
+}
